@@ -1,4 +1,4 @@
-# Car Showcase
+# CarHub
 
 [Visit the live demo website =>](https://car-showcase-vji2.vercel.app/ "CarHub")
 
