@@ -4,7 +4,7 @@
 
 ## Description
 
-A website for renting cars quickly and easily. Th
+A website for renting cars quickly and easily.
 
 Technologies Used:
 
